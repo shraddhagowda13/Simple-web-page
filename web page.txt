@@ -1,0 +1,41 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>
+		simple webpage
+	</title>
+</head>
+<body background="https://wallpapercave.com/wp/nW3L1yZ.jpg" link="#000" >
+	<br />
+	<h3 align="center">
+		<font face="Times new roman" size="6" color="blue">SHRADDHA M P</font><br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="Times new roman" size="4" color="purple">
+			<a href="#">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#">CONTACT ME</a>
+		</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Times new roman" color="red" size="7">
+			MY WEB PAGE
+		</font>
+	</h1>
+	<h3 align="center">
+		<font face="Times new roman" color="green" size="5">
+			USING HTML ONLY
+		</font>
+	</h3>
+	<br />
+	<h3 align="center">
+	<a href="#">
+		<font face="Times new roman" color="white">GET STARTED</font>
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	</h3>
+</body>
+</html>
